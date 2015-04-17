@@ -13,6 +13,7 @@ def quick_sort_1(elements,length):
             left_elements.append(elements[i])
     return left_elements+[pivot]+right_elements
     
+        
 length=int(input())
 elements=list(input().split())
 elements=[int(x) for x in elements]
