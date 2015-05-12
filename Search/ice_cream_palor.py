@@ -1,3 +1,5 @@
+#!/usr/bin/python
+import sys
 from itertools import combinations
 '''
 In this function,
